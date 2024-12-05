@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.1",
+    "@react-three/drei": "^9.107.0",
+    "@react-three/fiber": "^8.16.8",
+    "@react-three/postprocessing": "^2.16.2",
+    "axios": "^1.7.2",
+    "gsap": "^3.12.5",
+    "next": "14.2.4",
+    "postprocessing": "^6.35.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "three": "^0.165.0"
   }
 }

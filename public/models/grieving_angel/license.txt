@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grieving Angel
+* source:	https://sketchfab.com/3d-models/grieving-angel-c4278b6b54f843bc9a56a1020920387c
+* author:	JPDV (https://sketchfab.com/JPDV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grieving Angel" (https://sketchfab.com/3d-models/grieving-angel-c4278b6b54f843bc9a56a1020920387c) by JPDV (https://sketchfab.com/JPDV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
